@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  one:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-11-10T10:39:23.09283161+01:00"
+    description: A Helm chart for Kubernetes
+    digest: f22807836a5fae60f6b5e424b56214d3b45f8bf13080c441cf333e3a75a3243c
+    name: one
+    type: application
+    urls:
+    - https://github.com/torstenwalter/chart-releaser-test/releases/download/one-0.1.0/one-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-11-10T10:39:23.092852296+01:00"
